@@ -1,0 +1,19 @@
+.orderbook {
+    padding: 20px;
+  }
+  
+  .orderbook-table {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .orderbook-column {
+    width: 45%;
+  }
+  
+  .orderbook-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+  }
+  
